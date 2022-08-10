@@ -46,7 +46,7 @@ I mostly work on web development using JavaScript and Database technologies. I b
   </p>
 
 <p>
- I'm currenty pursuing Master of Computer Apllications at Bundelkhand University <b>Jhansi<b>. I mostly work on designing and developing features and enhancements with Node.js and native technologies for our client's products,
+ I'm recently completed my Master of Computer Apllications from Bundelkhand University <b>Jhansi<b>. I mostly work on designing and developing features and enhancements with Node.js and native technologies for our client's products,
 creating fully automated CI/CD workflows using github actions, jenkins
 and building scalable servers, infrastructure using cloud-native technologies such as AWS and Datadase Servers using MySql,NoSql.
 </p>
