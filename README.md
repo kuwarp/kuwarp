@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 
 <h4>I'm a Student and a passionate developer from India with a strong interest in Web-Devlopment technologies and Cyber-security.</h4>
 
-<!-- <img src="/res/MicrosoftTeams-image%20(12).png" /> -->
 
 <b>You can leave me a message via <a href="https://github.com/kuwarp/kuwarp/discussions/3"> GitHub Discussion</a></b>
 
