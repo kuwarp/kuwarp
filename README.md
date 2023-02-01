@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 <li><a href="#">My personal Portfolio</a> - A personal portfolio built using react, deployed to github pages.
 <li><a href="https://github.com/kuwarp/registrationByGuru">My registration Website </a>- A demo of E-learning website, built using nodejs, hbs, deployed to github pages using github actions.
   <li><a href="https://kuwarp.github.io/challange/">Project with tailwind css</a> - A pure tailwind css project where random image generator API called.
+     <li><a href="https://cozy-beijinho-fe7356.netlify.app/">Project based on openAi</a> -Just like gpt its a searching platform.
 <!-- <li><a href="https://github.com/tush-tr/gcloudact">GcloudAct</a> - A Terraform module for hosting your own runner for CI/CD on Google Cloud to run jobs in your GitHub Actions workflows. -->
 <!-- <li><a href="https://tush-tr.github.io/BookAnyCar/">Book Any Car</a> - A car rental system website built using nodejs and EJS. -->
 <!-- <li><a href="https://www.npmjs.com/package/@tush-tr/csv2json">csv2json</a> - A npm package to convert your csv files to json. -->
@@ -45,7 +46,7 @@ I mostly work on web development using JavaScript and Database technologies. I b
   </p>
 
 <p>
- I'm recently completed my Master of Computer Apllications from Bundelkhand University <b>Jhansi<b>. I mostly work on designing and developing features and enhancements with Node.js and native technologies for our client's products,
+ Working as Frontend Developer in Incredible Management Services Pvt.Ltd. My Domain Is <a href="https://www.creditklick.com/">Creditklick.com</a>.completed my Master of Computer Apllications from Bundelkhand University <b>Jhansi<b>. I mostly work on designing and developing features and enhancements with Node.js and native technologies for our client's products,
 creating fully automated CI/CD workflows using github actions, jenkins
 and building scalable servers, infrastructure using cloud-native technologies such as AWS and Datadase Servers using MySql,NoSql.
 </p>
