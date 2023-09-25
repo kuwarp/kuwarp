@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <b>You can leave me a message via <a href="https://github.com/kuwarp/kuwarp/discussions/3"> GitHub Discussion</a></b>
 
 ### Projects:
-<li><a href="#">My personal Portfolio</a> - A personal portfolio built using react, deployed to github pages.
+<li><a href="https://kuwarpratap.com">My personal Portfolio</a> - A personal portfolio built using react, deployed to github pages.
 <li><a href="https://github.com/kuwarp/registrationByGuru">My registration Website </a>- A demo of E-learning website, built using nodejs, hbs, deployed to github pages using github actions.
   <li><a href="https://kuwarp.github.io/challange/">Project with tailwind css</a> - A pure tailwind css project where random image generator API called.
      <li><a href="https://cozy-beijinho-fe7356.netlify.app/">Project based on openAi</a> -Just like gpt its a searching platform.
