@@ -46,9 +46,25 @@ I mostly work on web development using JavaScript and Database technologies. I b
   </p>
 
 <p>
- Working as Frontend Developer in Incredible Management Services Pvt.Ltd. My Domain Is <a href="https://www.creditklick.com/">Creditklick.com</a>.completed my Master of Computer Apllications from Bundelkhand University <b>Jhansi<b>. I mostly work on designing and developing features and enhancements with Node.js and native technologies for our client's products,
-creating fully automated CI/CD workflows using github actions, jenkins
-and building scalable servers, infrastructure using cloud-native technologies such as AWS and Datadase Servers using MySql,NoSql.
+ Professional Experience: A Journey of Growth
+
+    GOWIF Technologies Private Limited (June 2023 - September 2023) - Software Engineer
+        Developed REST APIs and implemented secure authentication protocols.
+        Orchestrated CI/CD pipelines with GitHub Actions, fostering seamless code integration and deployment on AWS.
+
+    Ims Pvt. Ltd (November 2022 - May 2023) - Frontend Developer
+        Created a custom UI library to enhance developer productivity and code reuse.
+        Developed features in projects using Node.js, PHP, and ReactJS.
+        Played a crucial role in code deployment pipelines and API integrations.
+
+    NovarsisTech (December 2021 - October 2022) - Frontend Developer
+        Orchestrated deployments and configurations using Docker on AWS, facilitating scalable microservices.
+        Integrated monitoring tools and security scanners into GitHub Actions workflows.
+
+    Freelancer (2020 - Present) - Developer
+        Contributed to multiple industries, showcasing adaptability and a diverse skill set.
+
+
 </p>
 
 <p>
