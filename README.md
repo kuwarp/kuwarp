@@ -48,7 +48,7 @@ I mostly work on web development using JavaScript and Database technologies. I b
 <p>
  Professional Experience: A Journey of Growth
 
-    GOWIF Technologies Private Limited (June 2023 - September 2023) - Software Engineer
+    PER SQUARE FEET Private Limited ( September 2023 - TILL NOW) - Software Engineer
         Developed REST APIs and implemented secure authentication protocols.
         Orchestrated CI/CD pipelines with GitHub Actions, fostering seamless code integration and deployment on AWS.
 
@@ -57,7 +57,7 @@ I mostly work on web development using JavaScript and Database technologies. I b
         Developed features in projects using Node.js, PHP, and ReactJS.
         Played a crucial role in code deployment pipelines and API integrations.
 
-    NovarsisTech (December 2021 - October 2022) - Frontend Developer
+    NovarsisTech (FEBRUARY 2021 - NOVEMBER 2022) - Frontend Developer
         Orchestrated deployments and configurations using Docker on AWS, facilitating scalable microservices.
         Integrated monitoring tools and security scanners into GitHub Actions workflows.
 
