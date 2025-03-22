@@ -48,7 +48,7 @@ I mostly work on web development using JavaScript and Database technologies. I b
 <p>
  Professional Experience: A Journey of Growth
 
-    PER SQUARE FEET Private Limited ( September 2023 - TILL NOW) - Software Engineer
+    PER SQUARE FEET Private Limited ( September 2024 - TILL NOW) - Software Engineer
         Developed REST APIs and implemented secure authentication protocols.
         Orchestrated CI/CD pipelines with GitHub Actions, fostering seamless code integration and deployment on AWS.
 
